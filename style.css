@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: #f2f5f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+/* Navigation Menu */
+
+nav {
+    background: #082f49;
+    padding: 15px;
+    text-align: center;
+}
+
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+header {
+    background: #0b3558;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 45px;
+    margin: 0;
+}
+
+
+header h2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 15px;
+}
+header h2 {
+    color: white;
+}
+
+
+section {
+    background: white;
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 35px;
+    border-radius: 12px;
+}
+
+
+
+h2 {
+    color: #0b3558;
+    border-bottom: 3px solid #0b3558;
+    padding-bottom: 10px;
+}
+
+
+
+h3 {
+    color: #1d5d8f;
+    margin-top: 30px;
+}
+
+
+
+h4 {
+    color: #555;
+}
+
+
+
+ul {
+    padding-left: 25px;
+}
+
+
+
+li {
+    margin-bottom: 8px;
+}
+
+
+
+a {
+    display: inline-block;
+    background: #0b3558;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+
+
+a:hover {
+    background: #164f7a;
+}
+
+
+
+footer {
+    background: #0b3558;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+@media(max-width:700px){
+
+header h1{
+font-size:32px;
+}
+
+
+section{
+margin:15px;
+padding:20px;
+}
+
+}
+.linkedin-btn {
+    background: #0A66C2;
+    color: white;
+}
+
+
+.linkedin-btn:hover {
+    background: #004182;
+}
+
+
+.whatsapp-btn {
+    background: #25D366;
+    color: white;
+}
+
+
+.whatsapp-btn:hover {
+    background: #128C7E;
+}
+
+.email-btn {
+    background: #d93025;
+    color: white;
+}
+
+.email-btn:hover {
+    background: #b3261e;
+}
+
+.Download-CV-btn {
+    background: #F59E0B;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.Download-CV-btn:hover {
+    background: #D97706;
+}
