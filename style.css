@@ -165,16 +165,3 @@ padding:20px;
     background: #b3261e;
 }
 
-.Download-CV-btn {
-    background: #F59E0B;
-    color: white;
-    padding: 12px 25px;
-    border-radius: 6px;
-    text-decoration: none;
-    display: inline-block;
-    font-weight: bold;
-}
-
-.Download-CV-btn:hover {
-    background: #D97706;
-}
